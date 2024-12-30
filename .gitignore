@@ -1,0 +1,14 @@
+# Exclude environment files
+.env
+
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Virtual environments
+venv/

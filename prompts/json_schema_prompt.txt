@@ -1,0 +1,9 @@
+Provide a JSON response strictly following this schema:
+{
+  "title": "string",
+  "description": "string",
+  "timestamp": "string"
+}
+
+User: {{$user_input}}
+Assistant:

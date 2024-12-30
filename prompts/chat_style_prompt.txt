@@ -1,0 +1,4 @@
+Respond to the user in a mildly humorous and concise manner.
+
+User: {{$user_input}}
+Assistant:

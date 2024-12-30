@@ -1,0 +1,12 @@
+Analyze the user's input and determine their intent. Categorize the intent into one of the following categories:
+- "general_chat" for conversational queries.
+- "document_retrieval" for document search.
+- "plugin_usage" for plugin-related tasks.
+
+Respond with a JSON object containing the detected intent and additional metadata if applicable. 
+
+Example:
+{
+  "intent": "general_chat",
+  "confidence": 0.95
+}

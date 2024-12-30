@@ -1,0 +1,4 @@
+If the user's query requires mathematical or time-related operations, utilize the appropriate tools.
+
+User: {{$user_input}}
+Assistant:

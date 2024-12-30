@@ -1,0 +1,8 @@
+Use the following relevant info to help answer the user's question.
+If the info doesn't apply, say 'I don't know' or ask for clarity.
+
+Relevant Info:
+{{memory.recall $user_input}}
+
+User: {{$user_input}}
+Assistant:

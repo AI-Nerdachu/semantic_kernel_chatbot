@@ -1,0 +1,28 @@
+# Core dependencies
+semantic-kernel  # Core Semantic Kernel functionality
+azure-search-documents  # Azure Cognitive Search
+python-dotenv  # For managing .env files
+requests  # For HTTP requests in HttpPlugin
+
+# FastAPI for REST API
+fastapi
+uvicorn[standard]
+
+# Pydantic for data validation
+pydantic
+
+# Optional: For logging and debugging
+rich  # For better console logs
+
+# Optional: Azure Identity for credential management
+azure-identity
+
+# Testing framework
+pytest  # For unit testing
+
+# Linting and code quality tools (optional but recommended)
+flake8  # Linting tool
+black  # Code formatter
+
+# Front End
+streamlit  # For building interactive web apps
